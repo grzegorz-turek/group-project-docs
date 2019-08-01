@@ -1,1 +1,1 @@
-https://grzegorz-turek.github.io/group-project-docs/
+Tutaj odpowiedzi na pytania: https://grzegorz-turek.github.io/group-project-docs/
