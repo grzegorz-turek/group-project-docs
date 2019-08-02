@@ -33,7 +33,7 @@ https://grzegorz-turek.github.io/group-project-docs/
 
 **task-48 - Footer RWD:**
 - link: https://projects.kodilla.com/browse/WDP190603-48
-- pull request: already deleted
+- pull request: already deleted (branch deleted)
 - status: Done
 - merge date: ??.07.2019
 - points: 1
